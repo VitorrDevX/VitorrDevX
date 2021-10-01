@@ -1,4 +1,4 @@
-## 👋 Olá! sou o Vitor
+<h1 align="center">Ola 👋, Eu sou o Vitor !</h1>
 
 ## ❤ Sobre Mim : 
 
