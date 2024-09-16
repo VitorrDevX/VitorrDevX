@@ -2,9 +2,9 @@
 
 ## ❤ Sobre Mim : 
 
-- 🖥️ Atualmente Programador de Lua HTML,CSS,JS
-- 💖Atualmente estou aprendendo mais sobre HTML / CSS
-- 😅E estudei um pouco de python
+- 🖥️ Atualmente Programador de Lua e Web
+- 💖 Aprendendo mais sobre HTML / CSS
+- 😅 E estudei um pouco de python
 <div><br>
   <img align="center" alt="lancer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="lancer.html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
